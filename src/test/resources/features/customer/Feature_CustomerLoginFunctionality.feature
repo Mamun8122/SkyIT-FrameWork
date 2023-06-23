@@ -13,3 +13,6 @@ Then Verify that I am in CUSTOMER Home Page
 Examples:
 |userId          |password|
 |david@gmail.com | 1234   |
+
+
+# Git test update
